@@ -1,0 +1,7 @@
+{
+	"name": "Integratedruntime1",
+	"properties": {
+		"type": "SelfHosted",
+		"description": "selfhosted IR for ADF for batch process by ravi"
+	}
+}
